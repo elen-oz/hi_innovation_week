@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "bi": "^0.0.1",
     "bootstrap": "^5.3.1"
   }
 }
